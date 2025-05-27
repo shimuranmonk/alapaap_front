@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Alapaap Logo" width="200"/>
+</p>
+
 # Alapaap Frontend
 
 This repository contains the **frontend/UI** for **Alapaap**.
